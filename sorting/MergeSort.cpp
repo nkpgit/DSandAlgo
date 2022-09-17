@@ -9,7 +9,7 @@ void Swap(int &a, int &b)
 	a = b;
 	b = t;
 }
-// Merge two sorted array
+// Merge two sorted
 void Merge(int *A, int start, int mid, int end)
 {
 	int *T1, *T2, nT1 = mid-start+1, nT2 = end-mid;
