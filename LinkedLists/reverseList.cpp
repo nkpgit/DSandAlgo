@@ -2,7 +2,7 @@
 #include <queue>
 #include <iostream>
 using namespace std;
-
+ 
 struct list
 {
 	int data;
